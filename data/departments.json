@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "su218p8yz",
+    "createdAt": "2026-07-12T04:14:09.247Z",
+    "updatedAt": "2026-07-12T04:14:09.247Z",
+    "name": "Engineering",
+    "code": "ENG",
+    "status": "Active",
+    "departmentHead": "3qpgfazy3"
+  },
+  {
+    "_id": "3m9wzgzja",
+    "createdAt": "2026-07-12T04:14:09.247Z",
+    "updatedAt": "2026-07-12T04:14:09.247Z",
+    "name": "Human Resources",
+    "code": "HR",
+    "status": "Active"
+  },
+  {
+    "_id": "o5zez9hz3",
+    "createdAt": "2026-07-12T04:14:09.248Z",
+    "updatedAt": "2026-07-12T04:14:09.248Z",
+    "name": "Facilities & Logistics",
+    "code": "FAC",
+    "status": "Active"
+  }
+]

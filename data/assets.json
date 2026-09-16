@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "g6rhww58r",
+    "createdAt": "2026-07-12T04:14:09.534Z",
+    "updatedAt": "2026-07-12T04:14:09.534Z",
+    "name": "MacBook Pro 16\"",
+    "assetTag": "AF-000001",
+    "serialNumber": "C02DF43FLVD2",
+    "category": "3rps2p4uv",
+    "department": "su218p8yz",
+    "location": "SF Office - Floor 3",
+    "acquisitionDate": "2025-01-15T00:00:00.000Z",
+    "acquisitionCost": 2499,
+    "condition": "Excellent",
+    "status": "Allocated",
+    "bookable": false,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKhSURBVO3BQW7sWAwEwSxC979yjpdcCRD0usfmZ0T8wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoFy8l4ZtU7iShU7mThE6lS8I3qbxRrFGKNUqxRrk4TOWkJPwmKicl4aRijVKsUYo1ysWHJeEJlSeS0Kl0SehUOpU3kvCEyicVa5RijVKsUS6GSUKn0iXhjspfVqxRijVKsUa5GEbljkqXhEmKNUqxRinWKBcfpvJNSehUuiR0Km+o/CbFGqVYoxRrlIvDkvB/UumS0Kl0SehU7iThNyvWKMUapVijxB/8YUm4o/IvKdYoxRqlWKNcvJSETqVLwkkqncoTSehU7iThJJVPKtYoxRqlWKPEHxyUhE7liSR0Kl0SOpUuCd+k0iWhU+mS0KmcVKxRijVKsUaJP3ghCZ3KnSR8k8qdJHQqXRLuqPwmxRqlWKMUa5SLl1S6JHQqd1SeSEKn0iWhS8ITSXgjCU+onFSsUYo1SrFGiT/4oCR0Kl0S3lB5Iwmdyp0kdCpPJOGOyhvFGqVYoxRrlIsPU7mj8kYSOpUuCZ3KSUnoVJ5QOalYoxRrlGKNcvFSEr5JpVN5IgmdSpeETuWOyhMqXRI6lTeKNUqxRinWKBeHqZyUhDtJuKPyhMpJSehUOpWTijVKsUYp1igXH5aEJ1TeULmThE6lS0KnclISOpWTijVKsUYp1igX/7gk3EnCSSqfVKxRijVKsUa5+MeodEnoVLok/CXFGqVYoxRrlIsPU/kklS4JbyThm5LQqbxRrFGKNUqxRrk4LAnflIRO5YkkdCp3knCSyknFGqVYoxRrlPiDNUaxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUYo1SrFH+AzmQCN6+H447AAAAAElFTkSuQmCC",
+    "customData": {
+      "Warranty Period (Months)": 24,
+      "Power Consumption (W)": 96
+    }
+  },
+  {
+    "_id": "356ukndoq",
+    "createdAt": "2026-07-12T04:14:09.534Z",
+    "updatedAt": "2026-07-12T04:14:09.534Z",
+    "name": "Ergonomic Standing Desk",
+    "assetTag": "AF-000002",
+    "serialNumber": "ESD-9988-21",
+    "category": "0l7f8vk30",
+    "department": "su218p8yz",
+    "location": "SF Office - Bay 4",
+    "acquisitionDate": "2025-02-10T00:00:00.000Z",
+    "acquisitionCost": 650,
+    "condition": "Good",
+    "status": "Allocated",
+    "bookable": false,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKWSURBVO3BQY7cQAwEwSxC//9yeo88NSBIM7a5jIg/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEkfJPKSRI6lS4JncpJEr5J5YlijVKsUYo1ysXLVN6UhDtUuiS8SeVNSXhTsUYp1ijFGuXiw5Jwh8odSehUOpWTJHQqdyThDpVPKtYoxRqlWKNcDJOE36xYoxRrlGKNcjGMSpeETqVLwiTFGqVYoxRrlIsPU/mmJHQqXRI6lSdU/iXFGqVYoxRrlIuXJeFvUumS0Kl0SehUTpLwLyvWKMUapVijxB/8x5JwovKbFGuUYo1SrFEuHkpCp9Il4U0qncpJEk5UTpLwJpVPKtYoxRqlWKNcPKTSJeFEpUtCp/JNSXhCpUtCp9IloVN5U7FGKdYoxRrl4i9T6ZJwovKESpeETqVLwh0qJyqfVKxRijVKsUa5eCgJJyonSThRuSMJJ0k4ScITSbhD5U3FGqVYoxRrlPiDFyXhCZUuCZ3Km5LQqZwkoVO5IwknKk8Ua5RijVKsUS5epvImlZMk3KHyL1F5U7FGKdYoxRol/uCBJHyTykkS7lDpktCpfFISOpUnijVKsUYp1igXL1N5UxJOktCpdEnoVE5UTpLQqZwkoVPpVN5UrFGKNUqxRrn4sCTcofJJSehUuiR0Km9KQqfypmKNUqxRijXKxS+XhJMkvEnlk4o1SrFGKdYoF7+MSpeETqVLwv+kWKMUa5RijXLxYSqfpHJHEk6S8E1J6FSeKNYoxRqlWKNcvCwJ35SEO1S6JHQqJ0l4k8qbijVKsUYp1ijxB2uMYo1SrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVij/AFpQvXieQNz1gAAAABJRU5ErkJggg==",
+    "customData": {
+      "Material": "Oak / Steel Frame"
+    }
+  },
+  {
+    "_id": "mvdwiu0ec",
+    "createdAt": "2026-07-12T04:14:09.535Z",
+    "updatedAt": "2026-07-12T04:14:09.535Z",
+    "name": "Conference Room B2",
+    "assetTag": "AF-000003",
+    "serialNumber": "CR-B2",
+    "category": "4aliic3qc",
+    "location": "SF Office - Floor 2",
+    "acquisitionDate": "2024-05-01T00:00:00.000Z",
+    "acquisitionCost": 0,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKiSURBVO3BQY7cWAwFwXyE7n/lHO/M1QcEqarbHEbEP1hjFGuUYo1SrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUa5eKhJHyTSpeETuUkCScqXRK+SeWJYo1SrFGKNcrFy1TelIQTlZMkdCpdEu5QeVMS3lSsUYo1SrFGufiwJNyh8kQSTpLwpiTcofJJxRqlWKMUa5SLf1wS1l/FGqVYoxRrlIthVLokdCpdEiYp1ijFGqVYo1x8mMo3JeEkCZ3KEyq/SbFGKdYoxRrl4mVJ+EkqXRI6lS4JncpJEn6zYo1SrFGKNcrFQyq/mUqXhDtU/iXFGqVYoxRrlIuHktCp3JGETqVLwh1J6FROVLokvEnlJAmdyhPFGqVYoxRrlIuHVO5IQqdyotIl4UTljiR0Kk8k4ScVa5RijVKsUS5eloQTlS4JnUqXhE7lJAmdyonKSRKeSEKn0qm8qVijFGuUYo1y8cNUuiR0Kk8koVM5ScITKidJ6FTeVKxRijVKsUa5+DCVLgl3JKFTOVHpknCShDtUnlD5pGKNUqxRijXKxctUTlTelIQTlU9KQqdyRxI6lSeKNUqxRinWKBcPJeGbVL5J5Y4knKh8UrFGKdYoxRrl4mUqb0rCicodSThROUnCHSonKm8q1ijFGqVYo1x8WBLuULkjCZ1Kl4QTlZMkdCp3JKFT6ZLQqTxRrFGKNUqxRrn4x6l0SehUuiR0SehUOpU3JeGTijVKsUYp1igX/3MqJ0l4QuWbijVKsUYp1igXH6bym6icJOGbktCpPFGsUYo1SrFGuXhZEr4pCZ3KHUm4Q+WOJHxTsUYp1ijFGiX+wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYo/wFASfXxQtpVPwAAAABJRU5ErkJggg==",
+    "customData": {
+      "Capacity": 12
+    }
+  },
+  {
+    "_id": "hlo80jsye",
+    "createdAt": "2026-07-12T04:14:09.535Z",
+    "updatedAt": "2026-07-12T04:14:09.535Z",
+    "name": "4K Laser Projector",
+    "assetTag": "AF-000004",
+    "serialNumber": "PROJ-LSR-88",
+    "category": "3rps2p4uv",
+    "location": "Equipment Locker A",
+    "acquisitionDate": "2025-03-20T00:00:00.000Z",
+    "acquisitionCost": 1200,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALdSURBVO3BQa7jSAwFwXyE7n/lHC+5KkCQ/KdNMCJ+sMYo1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijXKxUNJ+EsqJ0l4QqVLwl9SeaJYoxRrlGKNcvEylTcl4SQJJypdEjqVO1TelIQ3FWuUYo1SrFEuviwJd6jcoXKShJMkdCp3JOEOlW8q1ijFGqVYo1wMk4Q7VCYp1ijFGqVYo1z8uCScqJwkoVP5ZcUapVijFGuUiy9T+SaV/5PKv6RYoxRrlGKNcvGyJPylJHQqXRI6lSeS8C8r1ijFGqVYo8QPBknCEyq/rFijFGuUYo1y8VASOpUuCZ1Kl4ROpUtCp3KicpKETuWJJHQqJ0noVN5UrFGKNUqxRokf/KEknKicJOEOlSeScKJykoRO5ZuKNUqxRinWKPGDL0rCHSpdEjqVkyScqHRJ6FTuSEKnckcSOpUnijVKsUYp1igXDyXhROUkCScqJ0l4QuUkCScqT6i8qVijFGuUYo1y8ZBKl4QuCZ3KHUnoVDqVLgl3JKFTOVHpktCpnCShU3lTsUYp1ijFGiV+8MOScKLSJaFT6ZLQqXRJ6FS6JJyofFOxRinWKMUaJX7wQBL+kspJEu5Q6ZJwovIvK9YoxRqlWKNcvEzlTUl4QqVLQpeEE5UuCZ1Kl4ROpUtCp/KmYo1SrFGKNcrFlyXhDpU7kvCESpeELgmdSpeETqVLwkkSOpUnijVKsUYp1igXP06lS0KXhE7lRKVLQpeETqVLQqfSJaFTeVOxRinWKMUa5eLHJaFTuSMJnUqncpKETqVLQqfSJaFTeaJYoxRrlGKNcvFlKt+kcpKETqVTOUnCiUqXhE6lS8I3FWuUYo1SrFEuXpaEv5SEJ5LQqZyodEnoVLokdCpdEt5UrFGKNUqxRokfrDGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUYo3yH2CAMOwb09XPAAAAAElFTkSuQmCC",
+    "customData": {
+      "Warranty Period (Months)": 12,
+      "Power Consumption (W)": 350
+    }
+  },
+  {
+    "_id": "cptdi9cdn",
+    "createdAt": "2026-07-12T04:14:09.536Z",
+    "updatedAt": "2026-07-12T04:14:09.536Z",
+    "name": "Tesla Model Y Shuttle",
+    "assetTag": "AF-000005",
+    "serialNumber": "5YJYGDEE7LF",
+    "category": "qwk3w91ma",
+    "location": "Basement Parking Slot 14",
+    "acquisitionDate": "2024-09-12T00:00:00.000Z",
+    "acquisitionCost": 45000,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALYSURBVO3BQW7kQAwEwSxC//9yro88NSBIM7C5jIg/WGMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRrl4qEkfJPKSRLuUDlJwjepPFGsUYo1SrFGuXiZypuScJKETuWOJHQqJypvSsKbijVKsUYp1igXH5aEO1TuUOmScIfKE0m4Q+WTijVKsUYp1igXw6mcJKFT+cuKNUqxRinWKBd/XBI6lf9ZsUYp1ijFGuXiw1Q+SaVLwonKm1R+k2KNUqxRijXKxcuS8E1J6FS6JLwpCb9ZsUYp1ijFGiX+4D+ShBOVv6xYoxRrlGKNcvFQEjqVLgmdSpeETqVLQqdyRxJOVJ5IQqdykoRO5U3FGqVYoxRrlPiDL0pCp3JHEk5UuiR0Knck4UTlJAmdyicVa5RijVKsUS4eSkKn0iXhJAmdSpeETuVNSehUOpWTJHQqncpJEjqVJ4o1SrFGKdYo8QcPJOEOlS4JJyonSThReSIJJyq/SbFGKdYoxRol/uCDkvBNKnckoVPpktCpdEnoVE6S0Km8qVijFGuUYo1y8WEqn5SEkyScqHRJ6FS6JJwk4UTlk4o1SrFGKdYoFw8l4ZtUOpUuCW9KQqfymxVrlGKNUqxRLl6m8qYkPKHSJaFLwolKl4ROpUtCp9IloVN5U7FGKdYoxRrl4sOScIfKHUnoVO5Q6ZLQJaFT6ZLQqXRJOElCp/JEsUYp1ijFGuXij1PpktCpdConKl0SuiR0Kl0SOpUuCZ3Km4o1SrFGKdYoF39cEp5IQqfSqZwkoVPpktCpdEnoVJ4o1ijFGqVYo1x8mMonqXRJ6JLQqXQqJ0k4UemS0Kl0SfikYo1SrFGKNcrFy5LwTUk4UTlJQqdyotIloVPpktCpdEl4U7FGKdYoxRol/mCNUaxRijVKsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlH8jeSnzj0c1yQAAAABJRU5ErkJggg==",
+    "customData": {
+      "License Plate": "SF-GO-ELEV",
+      "Next Service Date": "2026-10-15T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "bhbj96k3x",
+    "createdAt": "2026-07-12T04:14:09.538Z",
+    "updatedAt": "2026-07-12T04:14:09.538Z",
+    "name": "Oculus Vision VR Kit",
+    "assetTag": "AF-000006",
+    "serialNumber": "OC-VIS-7711",
+    "category": "3rps2p4uv",
+    "location": "Equipment Locker B",
+    "acquisitionDate": "2025-04-10T00:00:00.000Z",
+    "acquisitionCost": 1500,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKoSURBVO3BQQ7bWAwFwX6E7n/lHi+5+oAg2ZMwrIofrDGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUYo1y8VASfknljiTcodIl4ZdUnijWKMUapVijXLxM5U1JOElCp3Ki0iXhDpU3JeFNxRqlWKMUa5SLL0vCHSrflIQ3JeEOlW8q1ijFGqVYo1wMp9IloVOZpFijFGuUYo1y8ZdT6ZLQqXQqXRI6lb9ZsUYp1ijFGuXiy1R+SaVLwonKEyp/kmKNUqxRijXKxcuS8EtJ6FROVLokdConSfiTFWuUYo1SrFHiB3+xJJyo/EuKNUqxRinWKBcPJaFTeVMSOpU7knCi0iXhROUkCXeovKlYoxRrlGKNEj94IAknKm9KQqdyRxLuUDlJwolKl4QTlSeKNUqxRinWKPGDFyXhCZUuCScqJ0noVLokdCpdEk5U/iTFGqVYoxRrlPjBA0noVLokdConSehUTpLQqZwk4QmVkyTcofKmYo1SrFGKNUr84IuS8H9S6ZLwSyq/VKxRijVKsUa5+DKVb0pCp9IloVPpktCpfFMSOpU3FWuUYo1SrFHiBw8k4ZdUTpLQqXRJ6FS6JHQqJ0noVO5IQqfyRLFGKdYoxRrl4mUqb0rCm1ROVLokdCp3JKFT+aZijVKsUYo1ysWXJeEOlW9KQqfSJaFT6ZLQqdyRhE7lTcUapVijFGuUi2FUuiScJOEkCZ3KEyrfVKxRijVKsUa5WEcqXRKeSMKJyhPFGqVYoxRrlIsvU/mlJLwpCZ3KHUnoVLokvKlYoxRrlGKNcvGyJPxSEk5UTpLQqZwkoVN5QuVNxRqlWKMUa5T4wRqjWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGKdYo/wFB9g3cVAtKzAAAAABJRU5ErkJggg==",
+    "customData": {
+      "Warranty Period (Months)": 12,
+      "Power Consumption (W)": 45
+    }
+  },
+  {
+    "_id": "ijuyqihr4",
+    "createdAt": "2026-07-12T04:14:09.540Z",
+    "updatedAt": "2026-07-12T04:14:09.540Z",
+    "name": "Executive Boardroom C1",
+    "assetTag": "AF-000007",
+    "serialNumber": "CR-C1",
+    "category": "4aliic3qc",
+    "location": "SF Office - Floor 4",
+    "acquisitionDate": "2024-06-01T00:00:00.000Z",
+    "acquisitionCost": 0,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAALYSURBVO3BQW7sWAwEwSxC979yTi+5eoAgtcfmZ0T8YI1RrFGKNUqxRinWKMUapVijFGuUYo1SrFGKNUqxRinWKMUapVijFGuUi4eS8JNUTpJwonJHEn6SyhPFGqVYoxRrlIuXqbwpCSdJ6FS6JJwkoVM5UXlTEt5UrFGKNUqxRrn4siTcoXKHyolKl4RO5Ykk3KHyTcUapVijFGuUi2GS0Kn8S4o1SrFGKdYoF39cEk6S0Kl0SehU/rJijVKsUYo1ysWXqXyTyv9J5Tcp1ijFGqVYo1y8LAk/KQmdSpeETuWJJPxmxRqlWKMUa5T4wSBJeELlLyvWKMUapVijXDyUhE6lS0Kn0iWhU+mS0KmcqHRJOFF5IgmdykkSOpU3FWuUYo1SrFHiB1+UhBOVLgmdykkSOpU3JeFE5SQJnco3FWuUYo1SrFHiBw8k4UTliSTcoXJHEjqVO5LQqdyRhE7liWKNUqxRijVK/OBFSehUuiR0Kl0SOpUuCU+o3JGEE5XfpFijFGuUYo1y8TKVLgknSThJwolKl4Q7ktCpnKh0SehUTpLQqbypWKMUa5RijRI/+MOS0KmcJKFT6ZLQqXRJeELlm4o1SrFGKdYoFw8l4SepdConSXgiCScqv0mxRinWKMUa5eJlKm9Kwjcl4USlS8JJEjqVLgmdypuKNUqxRinWKBdfloQ7VO5IwhMqXRK6JHQqXRI6lS4JJ0noVJ4o1ijFGqVYo1z8cSpdEjqVO1S6JHRJ6FS6JHQqXRI6lTcVa5RijVKsUS7+uCR0Kl0SOpUuCZ1Kp3KShE6lS0Kn0iWhU3miWKMUa5RijXLxZSrfpNIl4Q6VkyScqHRJ6FS6JHxTsUYp1ijFGuXiZUn4SUnoVO5IQqdyotIloVPpktCpdEl4U7FGKdYoxRolfrDGKNYoxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1yn/EPCf194pFjwAAAABJRU5ErkJggg==",
+    "customData": {
+      "Capacity": 20
+    }
+  },
+  {
+    "_id": "hfbhpavkm",
+    "createdAt": "2026-07-12T04:14:09.542Z",
+    "updatedAt": "2026-07-12T04:14:09.542Z",
+    "name": "Town Hall Auditorium",
+    "assetTag": "AF-000008",
+    "serialNumber": "AUD-TH",
+    "category": "4aliic3qc",
+    "location": "SF Office - Ground Floor",
+    "acquisitionDate": "2024-01-10T00:00:00.000Z",
+    "acquisitionCost": 0,
+    "condition": "Excellent",
+    "status": "Available",
+    "bookable": true,
+    "qrCodeUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAklEQVR4AewaftIAAAKWSURBVO3BQW7sWAwEwSxC979yjnfD1QMEqfvbBCPiD9YYxRqlWKMUa5RijVKsUYo1SrFGKdYoxRqlWKMUa5RijVKsUYo1SrFGuXgoCd+k0iWhU+mScIdKl4RvUnmiWKMUa5RijXLxMpU3JeFE5QmVO1TelIQ3FWuUYo1SrFEuPiwJd6g8kYROpUtCl4RO5Y4k3KHyScUapVijFGuUiz8uCet/xRqlWKMUa5SL4ZLQqXRJmKRYoxRrlGKNcvFhKt+k0iWhS0Kn8oTKb1KsUYo1SrFGuXhZEn4zlS4JncpJEn6zYo1SrFGKNcrFQyq/SRI6lS4Jd6j8JcUapVijFGuUi4eS0KnckYROpUvCHSp3qHRJeJPKSRI6lSeKNUqxRinWKBcPqXRJuEOlS0KnckcS7khCp/JEEv6lYo1SrFGKNcrFy1S6JDyRhE7lTSonSXgiCZ1Kp/KmYo1SrFGKNcrFQ0k4UTlJwolKl4ROpVPpktCpnCThCZWTJHQqbyrWKMUapVijxB98UBLepPKmJNyh8psVa5RijVKsUS4+TOWTknCi8psloVN5olijFGuUYo1y8VASvknlROVNKl0SnlD5pGKNUqxRijXKxctU3pSEE5WTJNyhcqLSJeFE5UTlTcUapVijFGuUiw9Lwh0qdyShU7lD5SQJnUqncpKETqVLQqfyRLFGKdYoxRrl4o9TOVHpktAloVPpVN6UhE8q1ijFGqVYo1wMk4Q7VE6S8ITKNxVrlGKNUqxRLj5M5V9SuSMJ35SETuWJYo1SrFGKNcrFy5LwTUk4SUKn0iXhDpU7kvBNxRqlWKMUa5T4gzVGsUYp1ijFGqVYoxRrlGKNUqxRijVKsUYp1ijFGqVYoxRrlGKNUqxR/gMByvPkVkUIvgAAAABJRU5ErkJggg==",
+    "customData": {
+      "Capacity": 150
+    }
+  }
+]

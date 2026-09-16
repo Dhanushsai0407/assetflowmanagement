@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "9irkosgx8",
+    "createdAt": "2026-07-12T04:14:09.545Z",
+    "updatedAt": "2026-07-12T04:14:09.545Z",
+    "user": "olm0cfwig",
+    "action": "SYSTEM_SEED",
+    "module": "Database",
+    "details": "Initial corporate master tables and records seeded successfully.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "_id": "kxrtuhr3o",
+    "createdAt": "2026-07-12T04:16:34.226Z",
+    "updatedAt": "2026-07-12T04:16:34.226Z",
+    "user": "rdj0rlyek",
+    "action": "SIGNUP",
+    "module": "Auth",
+    "details": "User registered: dsai2721@gmail.com",
+    "ipAddress": "::1"
+  }
+]

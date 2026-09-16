@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "3w4zspo5r",
+    "createdAt": "2026-07-12T04:14:09.544Z",
+    "updatedAt": "2026-07-12T04:14:09.544Z",
+    "resource": "mvdwiu0ec",
+    "bookedBy": "3qpgfazy3",
+    "bookedDepartment": "su218p8yz",
+    "title": "Weekly Sync meeting",
+    "startTime": "2026-07-12T04:30:00.544Z",
+    "endTime": "2026-07-12T06:00:00.544Z",
+    "status": "Upcoming"
+  },
+  {
+    "_id": "2j4n79yiq",
+    "createdAt": "2026-07-12T04:14:09.544Z",
+    "updatedAt": "2026-07-12T04:14:09.544Z",
+    "resource": "cptdi9cdn",
+    "bookedBy": "zio6wsexw",
+    "bookedDepartment": "3m9wzgzja",
+    "title": "Candidate pickup airport",
+    "startTime": "2026-07-12T08:30:00.544Z",
+    "endTime": "2026-07-12T10:30:00.544Z",
+    "status": "Upcoming"
+  }
+]

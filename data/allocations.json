@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "5zzw3d73e",
+    "createdAt": "2026-07-12T04:14:09.543Z",
+    "updatedAt": "2026-07-12T04:14:09.543Z",
+    "asset": "g6rhww58r",
+    "allocatedTo": "3qpgfazy3",
+    "allocatedBy": "6gpnleia5",
+    "allocatedDepartment": "su218p8yz",
+    "allocationDate": "2025-01-20T00:00:00.000Z",
+    "expectedReturnDate": "2027-01-20T00:00:00.000Z",
+    "status": "Active",
+    "notes": "Initial allocation for Engineering Head Priya Sharma"
+  },
+  {
+    "_id": "y44uq6wcq",
+    "createdAt": "2026-07-12T04:14:09.543Z",
+    "updatedAt": "2026-07-12T04:14:09.543Z",
+    "asset": "356ukndoq",
+    "allocatedTo": "twv098rl2",
+    "allocatedBy": "6gpnleia5",
+    "allocatedDepartment": "su218p8yz",
+    "allocationDate": "2025-02-15T00:00:00.000Z",
+    "expectedReturnDate": null,
+    "status": "Active",
+    "notes": "Assigned to Raj Patel desk space"
+  }
+]

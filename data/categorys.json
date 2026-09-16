@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "3rps2p4uv",
+    "createdAt": "2026-07-12T04:14:09.245Z",
+    "updatedAt": "2026-07-12T04:14:09.246Z",
+    "name": "Electronics",
+    "description": "Electronic devices, gadgets, and accessories",
+    "customFields": [
+      {
+        "name": "Warranty Period (Months)",
+        "type": "Number",
+        "required": true
+      },
+      {
+        "name": "Power Consumption (W)",
+        "type": "Number",
+        "required": false
+      }
+    ]
+  },
+  {
+    "_id": "0l7f8vk30",
+    "createdAt": "2026-07-12T04:14:09.246Z",
+    "updatedAt": "2026-07-12T04:14:09.246Z",
+    "name": "Furniture",
+    "description": "Office desks, chairs, and cabinets",
+    "customFields": [
+      {
+        "name": "Material",
+        "type": "Text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "_id": "qwk3w91ma",
+    "createdAt": "2026-07-12T04:14:09.246Z",
+    "updatedAt": "2026-07-12T04:14:09.246Z",
+    "name": "Vehicles",
+    "description": "Company vehicles, cars, and shuttles",
+    "customFields": [
+      {
+        "name": "License Plate",
+        "type": "Text",
+        "required": true
+      },
+      {
+        "name": "Next Service Date",
+        "type": "Date",
+        "required": false
+      }
+    ]
+  },
+  {
+    "_id": "4aliic3qc",
+    "createdAt": "2026-07-12T04:14:09.246Z",
+    "updatedAt": "2026-07-12T04:14:09.246Z",
+    "name": "Spaces & Rooms",
+    "description": "Meeting rooms, conference halls, and labs",
+    "customFields": [
+      {
+        "name": "Capacity",
+        "type": "Number",
+        "required": true
+      }
+    ]
+  }
+]

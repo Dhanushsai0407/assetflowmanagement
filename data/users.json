@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "olm0cfwig",
+    "createdAt": "2026-07-12T04:14:09.248Z",
+    "updatedAt": "2026-07-12T04:14:09.248Z",
+    "name": "Super Admin",
+    "email": "admin@assetflow.com",
+    "password": "$2b$10$VvxMZyVU13.KdWfWAMa9I.fBdzqK/iGQukWhB23yxf7Ox0P/F.1Tq",
+    "role": "Admin",
+    "phone": "+1 555-0100",
+    "status": "Active"
+  },
+  {
+    "_id": "6gpnleia5",
+    "createdAt": "2026-07-12T04:14:09.301Z",
+    "updatedAt": "2026-07-12T04:14:09.301Z",
+    "name": "Sarah Connor",
+    "email": "manager@assetflow.com",
+    "password": "$2b$10$drc5eICXgR.VXLwBc6YouuqmlFLOiLL0z9VNXW5zuZ0ga/H8NO2cK",
+    "role": "Asset Manager",
+    "department": "o5zez9hz3",
+    "phone": "+1 555-0101",
+    "status": "Active"
+  },
+  {
+    "_id": "3qpgfazy3",
+    "createdAt": "2026-07-12T04:14:09.352Z",
+    "updatedAt": "2026-07-12T04:14:09.352Z",
+    "name": "Priya Sharma",
+    "email": "head@assetflow.com",
+    "password": "$2b$10$0suKjFMjCPidTEQDnldJfu0R/mrs21bWXuXgcHsdHJPmfsxoMMhP.",
+    "role": "Department Head",
+    "department": "su218p8yz",
+    "phone": "+1 555-0102",
+    "status": "Active"
+  },
+  {
+    "_id": "twv098rl2",
+    "createdAt": "2026-07-12T04:14:09.402Z",
+    "updatedAt": "2026-07-12T04:14:09.402Z",
+    "name": "Raj Patel",
+    "email": "raj@assetflow.com",
+    "password": "$2b$10$nVcbPTRfS.ml/TBwlISVU.kdsuYm.cfIzDkZu2Den5dCX2mnqHGAa",
+    "role": "Employee",
+    "department": "su218p8yz",
+    "phone": "+1 555-0103",
+    "status": "Active"
+  },
+  {
+    "_id": "zio6wsexw",
+    "createdAt": "2026-07-12T04:14:09.452Z",
+    "updatedAt": "2026-07-12T04:14:09.452Z",
+    "name": "John Doe",
+    "email": "john@assetflow.com",
+    "password": "$2b$10$llaOqkNFtoTqRimqh.ryg.HFTaNMdcEY/Mjmm.jD355pd1AxyRINm",
+    "role": "Employee",
+    "department": "3m9wzgzja",
+    "phone": "+1 555-0104",
+    "status": "Active"
+  },
+  {
+    "_id": "rdj0rlyek",
+    "createdAt": "2026-07-12T04:16:34.126Z",
+    "updatedAt": "2026-07-12T04:16:34.126Z",
+    "name": "Dhanush Sai Duddupudi",
+    "email": "dsai2721@gmail.com",
+    "password": "$2b$10$u/givwmNyLE6Iwt6nuHhKu.x40rjD7xCq07ELUGosacEPYxIMA9BS",
+    "role": "Employee",
+    "department": null,
+    "phone": "+919010162172",
+    "status": "Active"
+  }
+]
