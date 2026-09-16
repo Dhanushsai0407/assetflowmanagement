@@ -9,7 +9,7 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   // Set base backend API URL
-  const API_URL = 'http://localhost:5000/api';
+  const API_URL = 'https://assetflow-backend-1pgu.onrender.com/api';
 
   useEffect(() => {
     const initializeAuth = async () => {
